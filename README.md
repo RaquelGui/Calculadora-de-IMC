@@ -11,7 +11,7 @@ Este projeto foi criado como parte de curso de formação frontend.
 
 ## Funcionalidades
 
-Cálculo do IMC
+- Cálculo do IMC
 
     Entrada de Dados: Os usuários podem inserir sua altura e peso na calculadora. Cada campo é associado a uma variável no JavaScript para manipulação posterior.
 
